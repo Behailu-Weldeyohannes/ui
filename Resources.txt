@@ -1,0 +1,3 @@
+CSS gradient:   https://cssgradient.io/gradient-backgrounds/
+backgrounds: https://coolbackgrounds.io/blue-background/
+clip path generators: https://www.cssportal.com/css-clip-path-generator/
